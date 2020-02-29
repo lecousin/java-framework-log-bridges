@@ -3,6 +3,6 @@ eclipse.preferences.version=1
 extraProperties=
 fileExclusions=
 idePrefixKey=
-projectKey=lecousin_java-framework-core
+projectKey=lecousin_java-framework-log-bridges
 serverId=SonarCloud/lecousin
 sqPrefixKey=
